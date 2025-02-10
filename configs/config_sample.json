@@ -1,0 +1,8 @@
+{
+    "tickers": ["AAPL", "GOOG", "MSFT"],
+    "mobile_number": "+12345678900",
+    "exchange": "nasdaq",
+    "google_api_key": "YOUR_GOOGLE_API_KEY",
+    "google_cx": "YOUR_GOOGLE_CX",
+    "finnhub_api_key": "YOUR_FINNHUB_API_KEY"
+} 
